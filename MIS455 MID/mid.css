@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+}
+img.a{
+    margin: 20px;
+    padding: 20px;
+    height: 150px;
+    width: 150px;
+}
+.inner1{
+    border: 2px solid rgb(168, 163, 163);
+    margin: 20px;
+    padding: 20px;
+    box-shadow: rgb(107, 105, 105);
+}
+.inner1:hover{
+    background-color: rgb(201, 203, 206);
+    border: 2px black;
+}
